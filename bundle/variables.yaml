@@ -1,0 +1,4 @@
+variables:
+- team: cloudbeed-CI
+- admin-user: adimurthy0211-admin
+- manager-user: adimurthy0211
